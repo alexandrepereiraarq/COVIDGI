@@ -1,0 +1,128 @@
+.headerr{
+    margin-top: 15px !important;
+}
+#logo{
+    height: 100%;
+    width: 50%;
+}
+.social_media{
+    llist-style: none;
+    font-size: 30px;
+    float: right;
+    margin-right: 10px;
+}
+.social_media li{
+    padding-right:15px;
+    display: inline;
+
+}
+.social_media li+li{
+    
+}
+#fb{color: #3c599b;}
+#tw{color: #5da9dd;}
+#yotoub{color: #ff0000;}
+#lnkdin{color: #0a66c2;}
+.menu-bg{
+   background-color: #5b9bd5;
+   margin-top:15px;
+   margin-left:10px;
+}
+
+.menu li a{
+    font-size: 20px;
+    padding-right: 25px !important;
+    color: white !important;
+    padding-left: 20px;
+} 
+.menu li a:hover{
+    font-weight: bold;
+    background-color: white;
+    color:#5b9bd5 !important;
+
+    }
+.menu i.navbar-toggler{
+    color:white;
+    border: 1px solid white;
+    margin-bottom: 5px;
+    font-size: 30px;
+    
+    }
+
+.menu i.navbar-toggler:active{border: 2px solid white !important; }
+
+.menu button{
+    border: 1px solid white;
+    line-height: 1;
+    padding:6px 10px;
+
+}
+
+.menu .bg-light {background-color: #5b9bd5 !important;}
+.menu ul li input{
+    margin-top: 5px;
+    
+    color: white;
+    border: 1px solid #5b9bd5;
+ }
+ .form-control {display: inline !important; 
+     width: auto !important;}
+#searchh{color:white !important;}
+
+
+
+.title-div h2{
+    text-align: center;
+    color: #5b9bd5;
+    padding: 35px 5px;
+}
+.content-sec{ 
+    margin-top: 15px;
+    
+}
+.content-sec .col-8{ 
+    background-color: #5b9bd5;
+    padding: 20px 1px;
+    border-radius: 60px;
+}
+.content-sec h2{
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+}
+#desription {
+    margin-top: 15px;
+}
+#desription p{
+    text-align: justify;
+}
+#desription label{
+    display: block;
+    border-bottom: 1px solid #5b9bd5;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    color: #5b9bd5;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#desription ul li{
+    color:#5b9bd5;
+    padding: 5px 1px;
+}
+#desription  ul li a{
+    color:black;
+    text-decoration: none;  
+}
+#desription ul li a:hover{
+    color:#5b9bd5;
+}
+.footer{
+    background-color:#5b9bd5;
+}
+.footer label{
+    display: block;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
