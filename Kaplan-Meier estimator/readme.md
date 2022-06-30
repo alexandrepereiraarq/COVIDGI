@@ -1,6 +1,6 @@
 <h1>Kaplan-Meier estimator</h1>
 
-<p align="justify">This section presents the use of the Kaplan-Meier estimator to analyse five Brazilian cities during the first year of the Coronavirus 2019 pandemic (February 2020 to February 2021). This analysis uses Python 3 and the KaplanMeierFitter function from the <a href="https://lifelines.readthedocs.io/en/latest/">Lifelines packagey</a>. It implements the KME using COVID-19 fatalities from the <a href="https://brasil.io/dataset/covid19/caso_full/">Brasil.IO COVID-19</a> database.</p>
+<p align="justify">This section presents the use of the Kaplan-Meier estimator to analyse five Brazilian cities during the first year of the Coronavirus 2019 pandemic (February 2020 to February 2021). This analysis uses Python 3 and the KaplanMeierFitter function from the <a href="https://lifelines.readthedocs.io/en/latest/">Lifelines package</a>. It implements the KME using COVID-19 fatalities from the <a href="https://brasil.io/dataset/covid19/caso_full/">Brasil.IO COVID-19</a> database.</p>
 
 This analysis is published "One year of the COVID-19 pandemic in the Global South: Uneven vulnerabilities in Brazilian cities" in Erdkunde (2022) Vol. 76 · No. 2 · 75–91.
 
