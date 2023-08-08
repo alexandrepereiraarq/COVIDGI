@@ -1,0 +1,6 @@
+IBGE[[:space:]]GADM[[:space:]]city[[:space:]]code[[:space:]]compat.csv filter=lfs diff=lfs merge=lfs -text
+CVGI_FB_cases_by_epi_week.csv filter=lfs diff=lfs merge=lfs -text
+CVGI_FB_cases_recoded.csv filter=lfs diff=lfs merge=lfs -text
+CVGI_FB_movement_bra_by_epi_week_merged.csv filter=lfs diff=lfs merge=lfs -text
+CVGI_FB_movement_bra_merged.csv filter=lfs diff=lfs merge=lfs -text
+CVGI_KME_events_svi_A5.csv filter=lfs diff=lfs merge=lfs -text
